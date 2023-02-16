@@ -21,51 +21,49 @@ Alpaca
 
 ## Questions/Outline:
 What has been the trend in U.S. housing prices from 2018-2022? In what areas have prices increased the most? Anything else to show the trends in housing over the years? 
+-----------------------------------------------
+Data: zillow housing price index, zillow housing inventory
 
 Chart ideas: line plot of Zillow housing price index over the period, bar chart of Zillow housing price index change each year, hv.plot.points of the change in housing prices by region (that geographic map with color of bubble showing the change in price over the period)
 
-Data: zillow housing price index, zillow housing inventory
+## LINE PLOT OF ZILLOW HOUSING PRICE INDEX OVER 2018-2022
+## BAR CHARTR OF ZILLOW HOUSING PRICE INDEX CHANGE EACH YEAR
+## HV.PLOT.POINTS GEOGRAPHIC MAP WITH BUBBLE COLORS (FIND DATA THAT INCLUDES LAT / LONG) 
 
-What’s the relationship between wage growth and housing prices? 
+QUESTION: Using this data what trend can we see with the housing prices over 4 years. Can we determine the direction of the housing market? 
+Are we heading towards a housing market collapse?  
 
-Chart ideas: similar to the above
+-------------------------------------------
 
-Data: zillow housing price index and Atlanta Fed wage growth tracker
+Data:   zillow housing price index and Atlanta Fed wage growth tracker
+## WAGE GROWTH NATION WIDE CHART
+## HOUSING PRICES NATION WIDE CHART
+## WAGE GROWTH VS HOUSING PRICES CHART
+## TREND AT HOUSING DATA CITY LEVEL CHART
+QUESTION: what does this information tell us about the economy
+------------------------------------------
 
-Does the stock price of US construction companies tell us anything about the strength of the housing market? 
 
-Chart ideas: similar to the above, statistic summary table, can maybe even do a confidence interval table here? 
 
+## STOCK OF COMPANIES OVERLAYED ON TOP OF EACH OTHER. SEE HOW THEY PERFORM BETWEEN EACH OTHER (confidence interval table, statistic summary table) 
+## STOCK OF COMPANIES VS HOUSING MARKET CHART 
+
+QUESTION: Can the stock of the constructions tell us a story about the strength of the housing market and see if people are purchasing new homes in current economic world
+
+---------------------
 Data: Alpaca
-
-
 List of data files: 
 Zillow housing price index (saved in Data folder)
 Zillow housing inventory (saved in Data folder)
 Atlanta fed wage growth (saved in Data folder)
 Alpaca. Need create data frame for stock data for: 
-DHI
-LEN
-NVR
-PCOR
-MTHSKY
-KBH
-LGIH
-TPH
-CCS
-GVA
-MHO
-MYRG
-GRBK
-ROAD
-PRIM
-DFH
-STRL
-BZH
-TPC
-NWPX
-HOV
-LSEA
-HIL
-ORN
-SGBX
+D.R. Horton,
+Lennar,
+NVR,
+Skyline Champion,
+Meritage Homes,
+KB Home,
+LGI Homes,
+TRI pointe Group,
+Century Communities,
+ M/I Homes
