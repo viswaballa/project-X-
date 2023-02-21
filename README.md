@@ -28,7 +28,7 @@
     What has been the trend in U.S. housing prices from 2018-2022? In what areas have prices increased the most? 
     Anything else to show the trends in housing over the years? 
 
-# Charts 1:
+## Charts 1:
     Line plot of zillow housing price index over 2018-2022
     Bar chart of zillow housing price index change each year
     HV.Plot.points geographic map with bubble colors (Must include Lat/Long for this to work)
