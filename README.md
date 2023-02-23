@@ -9,13 +9,14 @@
 
 
 ## *Project description/outline:*
-    Our project is to uncover what helps determine the strength of the housing market. We'll examine the relationship between US home prices and:
-    1) several economic datapoints; 2) the stock prices of construction companies.  
+    We believe that if we look at recent housing market trends, income growth and the change in stock prices of publicly-listed home construction companies, then we
+    can predict the future direction of the U.S. housing market.  
 
 ## *Research questions to answer:*
-    What economic indicators are correlated with the strength of the housing market (wage growth, housing inventory)?  
-    Do the stock prices of construction companies tell us anything about future home prices? 
-
+    What has been the trend in U.S. housing prices over the past ~5 years?  
+    Is there any relationship between wage growth and housing prices? What do recent trends in wage growth versus housing prices indicate about future housing prices?
+    Is there any relationship between the stock prices of publicly-listed home construction companies and housing prices? What can we glean from the change in stock 
+    prices over the past five years
 
 ## *Datasets to be used:*
     Zillow 
@@ -25,34 +26,31 @@
 -------------------------
 
 ## Question 1:
-    What has been the trend in U.S. housing prices from 2018-2022? In what areas have prices increased the most? 
-    Anything else to show the trends in housing over the years? 
+    What has been the trend in U.S. housing prices over the past ~5 years? 
 
-## Charts 1:
-    Line plot of zillow housing price index over 2018-2022
-    Bar chart of zillow housing price index change each year
-    HV.Plot.points geographic map with bubble colors (Must include Lat/Long for this to work)
+## Findings:
+    U.S. housing prices have increased ~4x over the past five or so years. While their rise has started to slow more recently, they remain at recent highs and have
+    room to fall further relative to historical levels.
 
 ------------------------------
 
 ## Question 2: 
-    Using this data what trend can we see with the housing prices over 4 years. Can we determine the direction of the housing market? 
-    Are we heading towards a housing market collapse?  
+    Is there any relationship between wage growth and housing prices? What do recent trends in wage growth versus housing prices indicate about future housing prices? 
 
-
-## Chart 2:
-    Wage growth nation wide
-    Housing Prices Nation Wide
-    Trend at Housing data city level
+## Findings:
+    There is a moderate positive correlation between wages and housing prices, however we were not able to analyze a long enough time period to be confident in this
+    view. Interestingly, housing prices have risen at a much faster rate than wages over the past 5 years, indicating that housing affordability could be a problem.
 
 -----------------
 
 ## Question 3:
-    Can the stock of the constructions tell us a story about the strength of the housing market and see if people are purchasing new homes in current economic world?
+    Is there any relationship between the stock prices of publicly-listed home construction companies and housing prices? What can we glean from the change in stock
+    prices over the past five years?
 
-## Chart 3: 
-    Stock of construction companies over a period of 2018-2023
-    Housing Price Index chart over the period of 2018-2023
+## Findings: 
+    We found the stock prices of home construction companies are more volatile than the change in housing prices. There doesn’t appear to be a strong correlation,
+    however we note that housing price growth began to slow a little more than 6 months after the stock prices declined. So, the stock prices may be a leading
+    indicator of home prices, but we would need to observe a longer time period as well as consider other potential influencing factors to have conviction in this view
 
 
 
